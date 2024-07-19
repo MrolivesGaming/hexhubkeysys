@@ -34,7 +34,7 @@ const (
 
 var (
 	DONATORVERSION = "v3.0.3"
-	webhookSecret  = ""
+	webhookSecret  = "Hq4nqhCVVxLZpP4sXRzzAAMgj1fgDC5JfPYSZN1W0YBF0PFyZJDRLILDfqo4UI25"
 	key            = []byte("iHOFtYu6Hv0kQz6%ZMf2G1!VM76aD2f!")
 	keyGenKey      = []byte("8If05g51m6uF&Oe#0QZGUb4#j2rKVizb")
 	keyStubKey     = []byte("8If05g51m6uF&Oe#0QZGUb4#j2rKVizb")
